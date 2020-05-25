@@ -1,4 +1,4 @@
-# node_server
+# Node Server
 
 Ready node server to deploy angular apps
 
