@@ -1,0 +1,19 @@
+{
+  "name": "genomebrain",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "description": "Brain portal",
+  "main": "server.js",
+  "dependencies": {
+    "compression": "^1.7.3",
+    "cors": "^2.8.4",
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "env": {
+    "node": true
+  }
+}
